@@ -1,0 +1,8 @@
+version: '2'
+services:
+  prod:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pythinkutils
+#    command: bash -c "python main.py"

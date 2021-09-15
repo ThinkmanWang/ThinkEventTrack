@@ -1,0 +1,31 @@
+[2021-08-30 00:13:13,823] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-29 22:46:25
+[2021-08-30 00:13:18,773] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:18,774] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:18
+[2021-08-30 00:13:23,788] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:23,790] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:23
+[2021-08-30 00:13:28,795] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:28,797] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:28
+[2021-08-30 00:13:33,802] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:33,804] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:33
+[2021-08-30 00:13:38,808] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:38,810] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:38
+[2021-08-30 00:13:43,817] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:43,819] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:43
+[2021-08-30 00:13:48,828] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:48,830] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:48
+[2021-08-30 00:13:52,285] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO hello
+[2021-08-30 00:13:53,840] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:53,841] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:53
+[2021-08-30 00:13:56,882] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO test
+[2021-08-30 00:13:58,848] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:13:58,850] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:13:58
+[2021-08-30 00:14:03,858] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:14:03,860] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:14:03
+[2021-08-30 00:14:05,482] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO nice to see you
+[2021-08-30 00:14:08,867] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:14:08,868] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:14:08
+[2021-08-30 00:14:13,873] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:14:13,875] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:14:13
+[2021-08-30 00:14:18,883] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():31  INFO 19
+[2021-08-30 00:14:18,885] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:14:18
+[2021-08-30 00:14:38,348] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py on_msg():25  INFO 2021-08-30 00:14:18

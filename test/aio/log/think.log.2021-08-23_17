@@ -1,0 +1,27 @@
+[2021-08-23 17:29:03,791] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():16  INFO b'2021-08-23 17:29:03'
+[2021-08-23 17:29:30,163] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():16  INFO 2021-08-23 17:29:30
+[2021-08-23 17:29:44,403] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():16  INFO 2021-08-23 17:29:44
+[2021-08-23 17:30:31,433] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:30:31
+[2021-08-23 17:30:45,027] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:30:45
+[2021-08-23 17:30:45,056] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():27  INFO 2021-08-23 17:30:45
+[2021-08-23 17:32:37,810] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:32:37
+[2021-08-23 17:32:37,813] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():23  ERROR 'Redis' object has no attribute 'execute'
+[2021-08-23 17:33:05,675] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:33:05
+[2021-08-23 17:33:05,683] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO 8b6b0c3c-dcfb-4d52-b8c8-514215ae37ad
+[2021-08-23 17:34:22,975] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:34:22
+[2021-08-23 17:34:33,071] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO None
+[2021-08-23 17:34:48,794] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():25  ERROR can only concatenate str (not "NoneType") to str
+[2021-08-23 17:35:24,762] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:35:24
+[2021-08-23 17:35:24,786] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO 225123aa-e549-4fbe-9367-4f9df3d85366
+[2021-08-23 17:36:58,982] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:36:58
+[2021-08-23 17:36:59,014] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO b216f99b-e5a8-4087-98ce-001104cd1b96
+[2021-08-23 17:37:51,202] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:37:51
+[2021-08-23 17:37:54,256] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO c5d03a16-ac57-4894-9052-fac65a22308c
+[2021-08-23 17:38:15,587] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:38:15
+[2021-08-23 17:38:15,610] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO b3a79103-375b-48f2-8415-0683cdcc2b1d
+[2021-08-23 17:38:48,653] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:38:48
+[2021-08-23 17:38:48,682] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO 040b0a08-153d-4d1b-ba39-ef90a2d4416c
+[2021-08-23 17:39:34,414] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:39:34
+[2021-08-23 17:39:34,443] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO 451fc990-5813-4249-9bc4-8059203674cc
+[2021-08-23 17:40:16,502] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():17  INFO 2021-08-23 17:40:16
+[2021-08-23 17:40:16,550] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/redis_test.py main():20  INFO 7002fba5-9947-46b5-b9c9-1c85641877c8

@@ -1,0 +1,52 @@
+[2021-08-26 18:50:00,508] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/pythinkutils/aio/kafka/ThinkAioKafkaProducer.py send():31  ERROR KafkaConnectionError: Unable to bootstrap from [('172.16.0.2', 9092, <AddressFamily.AF_INET: 2>), ('172.16.0.2', 9093, <AddressFamily.AF_INET: 2>), ('172.16.0.2', 9094, <AddressFamily.AF_INET: 2>)]
+[2021-08-26 18:50:00,537] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():30  INFO -1
+[2021-08-26 18:50:05,638] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/pythinkutils/aio/kafka/ThinkAioKafkaProducer.py send():31  ERROR KafkaConnectionError: Unable to bootstrap from [('172.16.0.2', 9094, <AddressFamily.AF_INET: 2>), ('172.16.0.2', 9093, <AddressFamily.AF_INET: 2>), ('172.16.0.2', 9092, <AddressFamily.AF_INET: 2>)]
+[2021-08-26 18:50:05,640] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_receive_test.py send_test():30  INFO -1
+[2021-08-26 19:38:42,168] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:42,169] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:42,168] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:42,168] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:42,169] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:47,180] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:47,180] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:47,181] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:47,181] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:47,182] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:52,187] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:52,188] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:52,188] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:52,188] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:52,188] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:57,194] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:57,194] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:57,194] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:57,194] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:38:57,194] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:39:02,199] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:39:02,200] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:39:02,200] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:39:02,200] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:39:02,200] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:32,738] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py test1():23  INFO FXXXXXXXXXXXXK
+[2021-08-26 19:40:32,738] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:32,738] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:32,738] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:32,738] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:32,738] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:37,754] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:37,754] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:37,754] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:37,754] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:40:37,755] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK
+[2021-08-26 19:43:02,579] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py test1():23  INFO FXXXXXXXXXXXXK
+[2021-08-26 19:43:02,579] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 3
+[2021-08-26 19:43:02,579] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 0
+[2021-08-26 19:43:02,579] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 4
+[2021-08-26 19:43:02,579] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 1
+[2021-08-26 19:43:02,579] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 2
+[2021-08-26 19:43:53,729] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py test1():23  INFO FXXXXXXXXXXXXK
+[2021-08-26 19:43:53,730] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 2
+[2021-08-26 19:43:53,730] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 0
+[2021-08-26 19:43:53,730] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 3
+[2021-08-26 19:43:53,730] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 1
+[2021-08-26 19:43:53,730] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/asyncpool_test.py cor_worker():10  INFO FXXK 4

@@ -1,0 +1,3 @@
+[2021-08-29 22:16:34,980] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_send_test.py main():25  INFO FXXK
+[2021-08-29 22:17:15,055] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_send_test.py send_one():19  ERROR [Error 3] UnknownTopicOrPartitionError
+[2021-08-29 22:17:15,060] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/kafka_send_test.py main():27  INFO DONE

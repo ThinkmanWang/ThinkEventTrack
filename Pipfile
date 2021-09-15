@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.douban.com/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+redis = "*"
+pymysql = "*"
+dbutils = "*"
+rainbow = "*"
+rainbow-logging-handler = "*"
+coloredlogs = "*"
+logutils = "*"
+aiomysql = "*"
+aiorwlock = "*"
+aioredis = "*"
+tornado = "*"
+aiofiles = "*"
+aiologger = "==0.4.0rc1"
+selenium = "*"
+aiokafka = "*"
+watchdog = "*"
+aiopg = "*"
+psycopg2-binary = "*"
+tqdm = "*"
+faker = "*"
+prettytable = "*"
+pyjwt = "*"
+requests = "*"
+aiohttp-requests = "*"
+aiohttp = "*"
+asyncio-pool = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9.6"

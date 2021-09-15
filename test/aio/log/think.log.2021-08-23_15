@@ -1,0 +1,20 @@
+[2021-08-23 15:30:15,288] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/aiolog_test.py main():6  DEBUG FXXK
+[2021-08-23 15:30:15,291] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/aiolog_test.py main():7  INFO FXXK
+[2021-08-23 15:30:15,291] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/aiolog_test.py main():8  INFO FXXK1
+[2021-08-23 15:37:59,623] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py insert_test():29  INFO Loop is not running
+[2021-08-23 15:38:17,416] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py insert_test():29  INFO Loop is not running
+[2021-08-23 15:46:10,980] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 1, "name": "thinkman"}
+[2021-08-23 15:46:10,987] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 2, "name": "FXXK"}
+[2021-08-23 15:46:10,988] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 3, "name": "FXXK"}
+[2021-08-23 15:46:10,989] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 4, "name": "FXXK"}
+[2021-08-23 15:46:10,990] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 5, "name": "FXXXXK"}
+[2021-08-23 15:46:10,991] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 6, "name": "FXXXXK"}
+[2021-08-23 15:46:10,992] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 7, "name": "FXXXXK"}
+[2021-08-23 15:46:25,533] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 1, "name": "thinkman"}
+[2021-08-23 15:46:25,535] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 2, "name": "FXXK"}
+[2021-08-23 15:46:25,536] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 3, "name": "FXXK"}
+[2021-08-23 15:46:25,536] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 4, "name": "FXXK"}
+[2021-08-23 15:46:25,537] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 5, "name": "FXXXXK"}
+[2021-08-23 15:46:25,537] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 6, "name": "FXXXXK"}
+[2021-08-23 15:46:25,538] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 7, "name": "FXXXXK"}
+[2021-08-23 15:46:25,538] MainThread - /Users/wangxiaofeng/Github-Thinkman/pythinkutilsV2/test/aio/mysql_test.py test():73  INFO {"id": 8, "name": "FXXXXK"}
