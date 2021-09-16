@@ -5,7 +5,5 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: ThinkEventTrack
-    networks:
-      - think_network
 
 #    command: bash -c "python main.py"
