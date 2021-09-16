@@ -4,5 +4,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: pythinkutils
+    container_name: ThinkEventTrack
+    networks:
+      - think_network
+
 #    command: bash -c "python main.py"
