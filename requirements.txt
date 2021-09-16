@@ -45,3 +45,4 @@ urllib3==1.26.6
 watchdog==2.1.4
 wcwidth==0.2.5
 yarl==1.6.3
+asyncio-pool==0.5.2
