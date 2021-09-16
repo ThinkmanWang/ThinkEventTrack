@@ -36,7 +36,7 @@ def main():
     myConsumer = TestConsumer(g_config.get("kafka", "host"), g_config.get("kafka", "topic"), "thinkman")
     myConsumer.start()
 
-    asyncio.gather(send_test())
+    # asyncio.gather(send_test())
 
     loop.run_forever()
 
