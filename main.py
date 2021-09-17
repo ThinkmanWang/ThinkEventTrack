@@ -103,7 +103,7 @@ async def start_pool(nSize):
 
 def main():
     loop = asyncio.get_event_loop()
-    asyncio.gather(start_pool(64))
+    asyncio.gather(start_pool(128))
     # asyncio.gather(test1())
     loop.run_forever()
 
