@@ -30,6 +30,7 @@ requests = "*"
 aiohttp-requests = "*"
 aiohttp = "*"
 asyncio-pool = "*"
+pydruid = "*"
 
 [dev-packages]
 
