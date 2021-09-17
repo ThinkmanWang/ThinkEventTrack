@@ -13,7 +13,7 @@ def test1():
     global g_connDruid
     curs = g_connDruid.cursor()
     curs.execute('''
-        select count(1) from thinkeventtrack
+        select count(1) as cnt from thinkeventtrack
     ''')
 
     for row in curs:
