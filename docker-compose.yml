@@ -1,13 +1,13 @@
 version: '2'
 services:
-  ThinkEventTrack01:
+  thinkeventtrack01:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: ThinkEventTrack01
     restart: always
 
-  ThinkEventTrack02:
+  thinkeventtrack02:
     build:
       context: .
       dockerfile: Dockerfile
