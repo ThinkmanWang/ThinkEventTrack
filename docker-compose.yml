@@ -5,11 +5,13 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: ThinkEventTrack01
+    restart: always
 
   ThinkEventTrack02:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: ThinkEventTrack02
+    restart: always
 
 #    command: bash -c "python main.py"
