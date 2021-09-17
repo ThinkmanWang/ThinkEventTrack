@@ -37,7 +37,7 @@ async def send_msg(dictMsg):
 
     try:
         # Produce message
-        await g_aio_logger.info(obj2json(dictMsg))
+        # await g_aio_logger.info(obj2json(dictMsg))
         await producer.send_and_wait(g_config.get("kafka", "topic"), obj2json(dictMsg).encode())
     except Exception as e:
         await g_aio_logger.error(e)
