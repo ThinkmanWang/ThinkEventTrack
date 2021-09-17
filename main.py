@@ -89,7 +89,12 @@ async def cor_worker(nNum):
     await g_aio_logger.info("FXXK %d" % (nNum,))
 
     while True:
-        await fake_event(nNum)
+        try:
+            await fake_event(nNum)
+        except Exception as ex:
+            pass
+        finally:
+            continue
 
 async def start_pool(nSize):
     global g_pool
