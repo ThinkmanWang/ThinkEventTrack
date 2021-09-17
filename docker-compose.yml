@@ -1,9 +1,15 @@
 version: '2'
 services:
-  prod:
+  ThinkEventTrack01:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: ThinkEventTrack
+    container_name: ThinkEventTrack01
+
+  ThinkEventTrack02:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ThinkEventTrack02
 
 #    command: bash -c "python main.py"
