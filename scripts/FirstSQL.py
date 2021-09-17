@@ -54,7 +54,8 @@ def query_pv_by_date():
     curs.execute('''
         select 
             TIME_FORMAT(__time, 'YYYY-MM-dd', '+08:00') as pv_date
-            , count(1) as cnt
+            , count(DISTINCT sessionId) as pv
+            , count(DISTINCT userId) as uv
         from 
             thinkeventtrack 
         WHERE 
@@ -64,9 +65,9 @@ def query_pv_by_date():
             TIME_FORMAT(__time, 'YYYY-MM-dd', '+08:00')
     ''')
 
-    pTable = PrettyTable(["pv_date", "cnt"])
+    pTable = PrettyTable(["pv_date", "pv", "uv"])
     for row in curs:
-        pTable.add_row([row.pv_date, row.cnt])
+        pTable.add_row([row.pv_date, row.pv, row.uv])
 
     print(pTable)
 

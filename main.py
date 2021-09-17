@@ -48,6 +48,7 @@ async def send_msg(dictMsg):
 async def fake_event(nThreadId):
 
     szSessionId = str(uuid.uuid4())
+    szUserId = str(uuid.uuid4())
 
     # 1: PC, 2: Android, 3: IOS, 4: Others
     nOS = random.randint(1, 4)
@@ -73,7 +74,7 @@ async def fake_event(nThreadId):
             "timestamp": get_timestamp() * 1000
             , "appId": 1
             , "sdkId": 1
-            , "userId": str(uuid.uuid4())
+            , "userId": szUserId
             , "sessionId": szSessionId
             , "osType": nOS
             , "device": szDevice
