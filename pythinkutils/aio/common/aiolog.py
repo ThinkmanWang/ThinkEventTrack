@@ -41,7 +41,7 @@ def setup_custom_logger():
 
     logger = Logger.with_default_handlers(formatter=formatter)
     logger.addHandler(handler)
-    logger.setLevel(logging.DEBUG)
+    logger.setLevel(logging.INFO)
 
     return logger
 
