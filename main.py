@@ -86,7 +86,7 @@ async def fake_event(nThreadId):
         await send_msg(dictMsg)
 
 async def cor_worker(nNum):
-    await g_aio_logger.info("FXXK %d" % (nNum,))
+    # await g_aio_logger.info("FXXK %d" % (nNum,))
 
     while True:
         try:

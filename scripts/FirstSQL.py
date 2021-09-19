@@ -56,7 +56,7 @@ def query_pv_by_date():
     curs = g_connDruid.cursor()
     curs.execute('''
         select 
-            TIME_FORMAT(__time, 'YYYY-MM-dd HH', '+08:00') as pv_date
+            TIME_FORMAT(__time, 'YYYY-MM-dd', '+08:00') as pv_date
             , count(__time) as msg_cnt
             , count(DISTINCT sessionId) as pv
             , count(DISTINCT userId) as uv
@@ -66,7 +66,7 @@ def query_pv_by_date():
             __time >= TIME_PARSE('2021-09-01 00:00:00', 'YYYY-MM-dd HH:mm:ss', '+08:00')
             and __time <= TIME_PARSE('2021-09-30 23:59:59', 'YYYY-MM-dd HH:mm:ss', '+08:00')
         GROUP BY
-            TIME_FORMAT(__time, 'YYYY-MM-dd HH', '+08:00')
+            TIME_FORMAT(__time, 'YYYY-MM-dd', '+08:00')
     ''')
 
     pTable = PrettyTable(["pv_date", "msg_cnt", "pv", "uv"])
